@@ -1,6 +1,5 @@
 def division(num1, num2)
- num1 = 1988
- num2 = 2019
+ puts (1988, 2019)
 end
 
 def assign_variable(value)
